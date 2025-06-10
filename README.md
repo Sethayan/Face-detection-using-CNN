@@ -1,2 +1,3 @@
 # Face-detection-using-CNN
-this is my first repository
+This is my first repository
+Author- Ayan Seth
